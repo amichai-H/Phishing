@@ -14,4 +14,4 @@ python3 Phishing.py 'username' 'mail service name' 'job title' 'Email'(as file o
 python3 Phishing.py yourName gmail.com dev test.txt
 ```
 # I send dns to 10.0.2.7
-## And the SMTP server is local host 127.0.0.1
+## And the SMTP server is local-host 
