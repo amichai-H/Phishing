@@ -1,5 +1,5 @@
 # Phishing
-## Created by Amichai Hadad 315149500
+## Created by Amichai Hadad 
 ### To run pls set up SMTP and import this:
 * smtplib
 * email
