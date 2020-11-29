@@ -1,0 +1,20 @@
+Content-Type: multipart/mixed; boundary="===============0219529050717779914=="
+MIME-Version: 1.0
+From: HOC@gov.co.il
+To: amichai@gmail.com
+Date: Sun, 22 Nov 2020 12:55:15 +0200
+Subject: Importent stuff
+
+--===============0219529050717779914==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Amichai Hadad
+from SecurityTeamManager.
+We recently recived an instruction from the Manager of gmail.coms that there is a fear of a Cyber attack against employees' computers
+our team works hard to protect your computer.
+Our advanced softwers has been discover a serious security issue on your computer.
+Please follow the instruction for your computer's security.
+Your HOC Of Israel.
+--===============0219529050717779914==--
